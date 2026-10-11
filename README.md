@@ -20,7 +20,7 @@ Yukarıdan aşağıya. Bir katman sadece altındaki katmanları kullanabilir.
 | `brands/` | entities | Markaya ait nesneler: tokenlar, ekranlar, seriler |
 | `foundation/` | shared | Hiçbir şeyi bilmeyen temel değerler ve sesler |
 
-Ek parçalar: `start/` (buradan başla), `glossary.md` (ortak dil), `learning/` (yayın sonrası öğrenme).
+Ek parçalar: `start/` (buradan başla), `glossary.md` (ortak dil), `learning/` (yayın sonrası öğrenme), `workflow/templates/` (ön yapım şablonları), `examples/` (uygulanmış örnekler), `tools/render/` (timeline.json'dan video üreten JavaScript aracı).
 
 ## Üç kural
 1. **Bağımlılık sadece aşağı doğru.** `techniques/emphasis` renklerini `foundation/`'dan ya da markanın tokenlarından alır, ama hangi formatta kullanıldığını bilmez.
