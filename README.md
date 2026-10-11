@@ -30,4 +30,4 @@ Ek parçalar: `start/` (buradan başla), `glossary.md` (ortak dil), `learning/` 
 ## Dil
 Klasör ve dosya adları İngilizce, içerik Türkçe. Sektör terimleri (hook, punch-in, safe zone) İngilizce kalır; açıklamaları `glossary.md`'de.
 
-Yeniysen [start/README.md](start/README.md) ile başla.
+Yeniysen [start/README.md](start/README.md) ile başla. Yöntemin nereden geldiğini ve neden böyle kurulduğunu merak ediyorsan: [lineage.md](lineage.md).
