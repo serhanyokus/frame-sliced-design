@@ -1,5 +1,7 @@
 # formats (pages katmanı)
 
+> Şu an sadece **talking-head** tamamlandı. Diğer formatlar ilk videoları yapıldıkça, gerçekten yapılan adımlardan yazılacak.
+
 Her video türü bir formattır. Her formatın bir format bible'ı vardır: hangi segmentlerden oluşur, neyi sabit, neyi değişkendir, hangi blokları ve teknikleri kullanır.
 
 - [talking-head](talking-head/README.md): kameraya konuşan kişi

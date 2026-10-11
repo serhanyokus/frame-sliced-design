@@ -2,6 +2,8 @@
 
 Kameraya konuşan kişi; uygulama ekranları ve vurgular konuşmayı destekler.
 
+**Ham malzeme:** kamera çekimi. Çekim adımları ([workflow/shoot.md](../../workflow/shoot.md)), kesim maskeleme ve renk eşitleme bu formata özgüdür.
+
 ## Segmentler
 1. **Hook (0–3 sn):** görsel hook bloğu → [blocks/hook](../../blocks/hook/README.md)
 2. **Tanıtım:** kim, ne
