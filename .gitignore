@@ -1,0 +1,9 @@
+# Ham çekimler ve render çıktıları repoya girmez
+*.mov
+*.MOV
+*.mp4
+*.m4a
+*.wav
+*.zip
+.DS_Store
+node_modules/
